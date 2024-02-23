@@ -12,7 +12,7 @@
  
 ##
 ### 🚀About Me
- Passionate about technology, I'm studying the    Technologist course in Systems Analysis and Development at Estácio, I'm in the 2nd period and I continue studying and programming in my daily life so that in the future I can be a collaborator in the job market.
+ Passionate about technology, I'm studying the    Technologist course in Systems Analysis and Development at Estácio, I'm in the 3nd period and I continue studying and programming in my daily life so that in the future I can be a collaborator in the job market.
 
 ##
 ### 📬How to reach me 
