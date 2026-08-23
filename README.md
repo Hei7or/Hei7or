@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, eu sou o Heitor Pinheiro Tavares</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cyber%20Security%20Analyst%20%7C%20Pentest%20%7C%20Red%20Team-FF0000?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&repeat=false&width=600&height=40&lines=Cyber+Security+Analyst+%7C+Pentest+%7C+Red+Team" alt="Cyber Security Analyst | Pentest | Red Team" />
 </p>
 
 <p align="center">
