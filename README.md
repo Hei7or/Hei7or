@@ -2,7 +2,7 @@
 <h3 align="center"><font color="#FF0000">Cyber Security Analyst | Pentest | Red Team</font></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Offensive+Security+Analyst;Pentest+%26+Red+Team;Web+%2F+API+%2F+Mobile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Offensive+Security+Analyst;Pentest+%26+Red+Team;Web+%2F+API+%2F+Mobile%2F+MalwareDeveloper" alt="Typing SVG" />
 </p>
 
 ##
