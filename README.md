@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-hacking%20ethically-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/localização-Cataguases,%20MG-blue?style=for-the-badge"/>
 </p>
 
 ##
@@ -16,11 +15,10 @@
 
 Profissional de Análise e Desenvolvimento de Sistemas com foco em **Segurança da Informação**, atuando principalmente com **segurança ofensiva**.
 
-- 🔭 Atualmente **Analista de Segurança Cibernética** no **Grupo Energisa**
-- 🧪 Experiência em testes de segurança de **aplicações web e APIs** — identificação de vulnerabilidades, exploração controlada e análise técnica de sistemas
+- 🔭 Atualmente **Analista de Segurança Cibernética |**
+- 🧪 Experiência em testes de segurança de **aplicações Web e APIs** — identificação de vulnerabilidades, exploração controlada e análise técnica de sistemas
 - 🛡️ Aprimorando continuamente habilidades em **pentest** de aplicações web, APIs, infraestrutura, **cloud**, **mobile** e **desenvolvimento de malware**
 - 🧠 Praticando em labs, pesquisa de segurança e desafios reais de cibersegurança
-- 🌱 Técnico em Desenvolvimento de Sistemas — SENAI CTTI-MG
 
 ##
 
