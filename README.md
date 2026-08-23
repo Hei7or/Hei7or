@@ -2,11 +2,7 @@
 <h3 align="center">Cyber Security Analyst | Pentest | Red Team</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Offensive+Security+Analyst;Pentest+%26+Red+Team;Web+%2F+API+%2F+Cloud+%2F+Mobile" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-hacking%20ethically-brightgreen?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FF003&center=true&vCenter=true&width=600&lines=Offensive+Security+Analyst;Pentest+%26+Red+Team;Web+%2F+API+%2F+Cloud+%2F+Mobile" alt="Typing SVG" />
 </p>
 
 ##
@@ -17,7 +13,7 @@ Profissional de Análise e Desenvolvimento de Sistemas com foco em **Segurança 
 
 - 🔭 Atualmente **Analista de Segurança Cibernética |**
 - 🧪 Experiência em testes de segurança de **aplicações Web e APIs** — identificação de vulnerabilidades, exploração controlada e análise técnica de sistemas
-- 🛡️ Aprimorando continuamente habilidades em **pentest** de aplicações web, APIs, infraestrutura, **cloud**, **mobile** e **desenvolvimento de malware**
+- 🛡️ Aprimorando continuamente habilidades em pentest de aplicações Web, APIs, infraestrutura, cloud, mobile e desenvolvimento de malware
 - 🧠 Praticando em labs, pesquisa de segurança e desafios reais de cibersegurança
 
 ##
