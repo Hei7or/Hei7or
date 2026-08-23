@@ -13,8 +13,8 @@ Profissional de Análise e Desenvolvimento de Sistemas com foco em **Segurança 
 
 - 🔭 Atualmente **Analista de Segurança Cibernética**
 - 🧪 Experiência em testes de segurança de **aplicações Web e APIs** — identificação de vulnerabilidades e exploração controlada!
-- 🛡️ Aprimorando continuamente habilidades em pentest de aplicações Web, APIs, Mobile e Desenvolvimento de Malware
-- 🧠 Praticando em labs, pesquisa de segurança e desafios reais de cibersegurança
+- 🛡️ Aprimorando continuamente habilidades em pentest de aplicações Web, APIs, Mobile e Desenvolvimento de Malware.
+- 🧠 Praticando em labs, pesquisa de segurança e desafios reais de cibersegurança.
 
 ##
 
