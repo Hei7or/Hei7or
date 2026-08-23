@@ -11,7 +11,7 @@
 
 Profissional de Análise e Desenvolvimento de Sistemas com foco em **Segurança da Informação**, atuando principalmente com **segurança ofensiva**.
 
-- 🔭 Atualmente **Analista de Segurança Cibernética |**
+- 🔭 Atualmente **Analista de Segurança Cibernética**
 - 🧪 Experiência em testes de segurança de **aplicações Web e APIs** — identificação de vulnerabilidades e exploração controlada!
 - 🛡️ Aprimorando continuamente habilidades em pentest de aplicações Web, APIs, mobile e desenvolvimento de malware
 - 🧠 Praticando em labs, pesquisa de segurança e desafios reais de cibersegurança
@@ -26,7 +26,6 @@ Profissional de Análise e Desenvolvimento de Sistemas com foco em **Segurança 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
 
 **Linguagens & Scripting**
