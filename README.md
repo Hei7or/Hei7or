@@ -46,19 +46,7 @@ Profissional de Análise e Desenvolvimento de Sistemas com foco em **Segurança 
 - 🎓 **TCM Security** — Practical Security Fundamentals
 - 🎓 **DESEC** — Introdução ao Pentest
 - 🎓 **GoHacking** — Ethical Hacking Web API
-
-##
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hei7or&show_icons=true&theme=tokyonight&hide_border=true&title_color=39FF14&icon_color=39FF14"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hei7or&layout=compact&theme=tokyonight&hide_border=true&title_color=39FF14"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hei7or&theme=tokyonight&hide_border=true&ring=39FF14&fire=39FF14"/>
-</p>
+- 🎓 **GoHacking** — Ethical Hacking Web Application
 
 ##
 
