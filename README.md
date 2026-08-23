@@ -9,7 +9,7 @@
 
 ### 🎯 Sobre mim
 
-Profissional de Análise e Desenvolvimento de Sistemas com foco em **Segurança da Informação**, atuando principalmente com **segurança ofensiva**.
+Profissional de Análise e Desenvolvimento de Sistemas com foco em **Segurança da Informação**, atuando com **segurança ofensiva**.
 
 - 🔭 Atualmente **Analista de Segurança Cibernética**
 - 🧪 Experiência em testes de segurança de **aplicações Web e APIs** — identificação de vulnerabilidades e exploração controlada!
